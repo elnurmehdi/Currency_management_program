@@ -85,7 +85,7 @@ namespace Currency_conventer_system
 
                 else if (command == "/exit")
                 {
-                    Console.WriteLine("Bye-Bye");
+                    Console.WriteLine("Good-Bye");
                     break;
                 }
                 else
